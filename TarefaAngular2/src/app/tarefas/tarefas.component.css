@@ -1,0 +1,21 @@
+.btn-acao {
+  width: 80px; /* ou qualquer outra largura que você preferir */
+}
+.status-column {
+    width: 15%;
+  }
+
+  .actions-column {
+    width: 10%;
+  }
+
+  .status-label {
+    margin-left: 5px;
+  }
+
+.translateY {
+  transform: translateY(50px);
+}
+.botao-nova-tarefa {
+  margin-bottom: 300px;
+}
